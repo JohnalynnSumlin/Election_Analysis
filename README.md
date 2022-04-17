@@ -33,4 +33,4 @@ Finally, you’ll provide a written analysis of the election audit for the elect
 ![image](https://user-images.githubusercontent.com/94920551/163734124-05a198e4-7ee5-4bd1-8229-1e4ad9414f18.png)
 
 ### Election-Audit Summary
-dafd
+This script could be used in future elections like state-wide or even national elections. This would quickly give the public a visual aid showing what candidate won and what percentage of the votes they received. 
